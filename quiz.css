@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+*{
+    font-family: 'Ubuntu', 'sans-serif';
+}
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 70px;
+    color: blue;
+}
+
+#star{
+    display: none;
+}
+
+#demo{
+    font-size: 40px;
+    color: darksalmon;
+}
